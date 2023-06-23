@@ -6,6 +6,6 @@ I started my adventure on 1 January 2022 and have been working hard for my succe
 * 💻 HTML / SCSS
 
 ### Learning:
-* 💻 JS / TP / Angular
+* 💻 JS / TS / Angular
 
 
